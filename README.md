@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello👋
+
+I am currently a Student at Leeds Beckett University studying Level 4 Cyber Security (BSc)
+
 
 <!--
 **Kiedas/Kiedas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
